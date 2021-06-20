@@ -29,7 +29,14 @@ alert("welcome to pest sport web") +name
 var name = prompt("what is ur name" + name)
 
 
-var favsport = prompt("what is ur fav sport from these (football, tennis, swimming?")
+var favsport = prompt("what is ur fav sport from these (football, tennis, swimming)?")
+
+
+
+
+
+
+
 
 if(favsport == "football"){
   document.write("<p>"+ "great thing that u love football cos we have it here in our webpage" +"</p>")
@@ -47,4 +54,15 @@ document.write("<p>"+ "that good coz we have about it here" +"</p>")
 
 else{
   alert(" sorry ")
+
+}
+
+
+
+
+function rating (){
+
+var stratNum = prompt( "how many start do you rate our web /")
+
+retum starsNum;
 }
