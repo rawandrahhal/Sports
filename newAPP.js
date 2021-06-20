@@ -1,4 +1,3 @@
-
 var firstName = "rawand"
 console.log(firstName)
 console.log("HELLO ALL")
@@ -62,42 +61,16 @@ else{
 
 function rating (){
 
-var sport -  prompt( " what is ur favsport of these? (football , tennis , swimming)?")
+var stratNum = prompt( "how many start do you rate our web /")
 
-
-if (sport == "football"){document.write("<p>" + "GREAT" + "</P>")
+retum starsNum;
 }
 
-else if (favsport == tennis){document.write("<p>" + "ohhh u can see about it here" + "</P>")}
 
+var num= ratin();
+for (var 1 = 0; 1 < num ; 1++){
 
-else {
-  alert ("sorry")
-}
-
-========================================
-                 function 
-
-
-
-function rating (){
-  var starnum - prompt("how many stars do u rate football?")
-
-  return starnum ;
-}
-
-var num = rating();
-for (var i=0 , i<num ; i++){document.write(
-  "<http://res.publicdomainfiles.com/pdf_view/54/13527173411344.png>")
-  }
-
-
-
-function rating2 (num){
-
-  for (var i=0 ; i<num ; i++){"<http://res.publicdomainfiles.com/pdf_view/54/13527173411344.png>")
-
-
-  }
+  document.write("<img src=" "https://th.bing.com/th/id/OIP.3LM6A14ZHyzk6OVRcxKlkAHaFj?pid=ImgDet&rs=1">")
 
 }
+
