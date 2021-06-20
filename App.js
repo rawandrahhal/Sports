@@ -66,3 +66,12 @@ var stratNum = prompt( "how many start do you rate our web /")
 
 retum starsNum;
 }
+
+
+var num= ratin();
+for (var 1 = 0; 1 < num ; 1++){
+
+  document.write("<img src=" "https://th.bing.com/th/id/OIP.3LM6A14ZHyzk6OVRcxKlkAHaFj?pid=ImgDet&rs=1">")
+
+}
+
